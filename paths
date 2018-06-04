@@ -1,0 +1,3 @@
+export PATH=~/amuse:$PATH
+export PATH=~/amuse/prerequisites/bin/:$PATH
+export LD_LIBRARY_PATH=~/amuse/prerequisites/lib:$LD_LIBRARY_PATH
